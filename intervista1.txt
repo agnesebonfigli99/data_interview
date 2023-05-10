@@ -1,0 +1,39 @@
+Assistente sanitario: Buongiorno! Come stai oggi? Sono qui per fare qualche domanda riguardo alla tua gestione del diabete, se sei disponibile.
+
+Paziente: Buongiorno! Sto bene, grazie. Sì, sono pronto/a a rispondere alle tue domande.
+
+Assistente sanitario: Perfetto! Allora iniziamo. Da quando hai ricevuto la diagnosi di diabete?
+
+Paziente: Ho ricevuto la diagnosi di diabete cinque anni fa.
+
+Assistente sanitario: Capisco. Quale tipo di diabete hai? Diabete di tipo 1 o di tipo 2?
+
+Paziente: Ho il diabete di tipo 2.
+
+Assistente sanitario: Ottimo. Quale terapia stai seguendo attualmente per gestire il diabete?
+
+Paziente: Sto seguendo una terapia basata sull'uso di farmaci orali e sull'adozione di un'alimentazione equilibrata.
+
+Assistente sanitario: Hai una buona comprensione della gestione dei farmaci orali e dell'auto-monitoraggio dei livelli di zucchero nel sangue?
+
+Paziente: Sì, ho una buona comprensione. Assumo i farmaci prescritti regolarmente e faccio il controllo dei livelli di zucchero nel sangue a casa con un misuratore di glicemia.
+
+Assistente sanitario: Quanto spesso controlli i tuoi livelli di zucchero nel sangue?
+
+Paziente: Solitamente controllo i livelli di zucchero nel sangue tre volte al giorno: al mattino a digiuno, prima del pranzo e prima di cena.
+
+Assistente sanitario: Hai esperienza con l'uso di dispositivi per l'auto-somministrazione dell'insulina, come le penne per insulina o le pompe?
+
+Paziente: No, al momento non sto assumendo insulina. Quindi non ho esperienza con questi dispositivi.
+
+Assistente sanitario: Capisco. Stai seguendo una dieta specifica per il diabete? Hai difficoltà a seguirne le indicazioni?
+
+Paziente: Sì, seguo una dieta specifica per il diabete. Limito l'assunzione di zuccheri e carboidrati raffinati. A volte può essere difficile resistere alle tentazioni, ma cerco di essere disciplinato/a nella mia alimentazione.
+
+Assistente sanitario: Hai notato qualche sintomo o cambiamento nei livelli di zucchero nel sangue recentemente?
+
+Paziente: Di recente ho notato un aumento dei livelli di zucchero nel sangue dopo i pasti. Probabilmente è dovuto a un aumento dell'assunzione di carboidrati.
+
+Assistente sanitario: Capisco. Hai avuto episodi di ipoglicemia o iperglicemia di recente?
+
+Paziente: Sì, di recente ho avuto un paio di episodi di ipoglicemia durante la notte a causa di un errore nella dose di farmaci orali. Ho corretto il problema e sto facendo attenzione alle mie dosi.

@@ -1,0 +1,31 @@
+Assistente sanitario: Buongiorno! Come stai oggi? Sono qui per fare qualche domanda riguardo alla tua gestione del diabete, se sei disponibile.
+
+Paziente: Buongiorno! Sto bene, grazie. Sì, sono pronto/a a rispondere alle tue domande.
+
+Assistente sanitario: Perfetto! Allora iniziamo. Hai qualche altra condizione medica concomitante che può influenzare il tuo diabete, come malattie cardiache o renali?
+
+Paziente: Sì, ho anche l'ipertensione, che può influenzare la gestione del mio diabete.
+
+Assistente sanitario: Capisco. Stai assumendo altri farmaci oltre a quelli per il diabete? Hai notato qualche interazione farmacologica o effetto collaterale?
+
+Paziente: Sì, assumo anche farmaci per l'ipertensione. Non ho notato interazioni farmacologiche significative, ma ho avuto qualche effetto collaterale leggero come stanchezza e vertigini.
+
+Assistente sanitario: Hai effettuato controlli oftalmologici o esami dei piedi di recente?
+
+Paziente: Sì, ho effettuato un controllo oftalmologico l'anno scorso e ho un appuntamento programmato per un esame dei piedi la prossima settimana.
+
+Assistente sanitario: Ottimo. Come stai gestendo lo stress nella tua vita quotidiana? Lo stress influisce sui tuoi livelli di zucchero nel sangue?
+
+Paziente: Cerco di gestire lo stress con la meditazione, l'esercizio fisico e il tempo dedicato a hobby che mi rilassano. Tuttavia, ho notato che lo stress può influenzare i miei livelli di zucchero nel sangue, portandoli ad aumentare.
+
+Assistente sanitario: Hai avuto esperienze precedenti di ospedalizzazione o complicazioni legate al diabete?
+
+Paziente: No, fortunatamente non ho avuto esperienze di ospedalizzazione o complicazioni significative legate al diabete.
+
+Assistente sanitario: Sei interessato/a a partecipare a programmi di educazione sul diabete o a gruppi di supporto?
+
+Paziente: Sì, sono interessato/a a partecipare a programmi di educazione sul diabete e a un gruppo di supporto locale. Penso che potrebbero aiutarmi a gestire meglio la malattia e a connettermi con altre persone che affrontano situazioni simili.
+
+Assistente sanitario: Ti senti supportato/a dal tuo ambiente familiare e sociale per gestire il diabete?
+
+Paziente: Sì, fortunatamente ho un forte sostegno da parte della mia famiglia e dei miei amici. Mi incoraggiano a prendere cura di me stesso/a e mi aiutano quando ne ho bisogno.
