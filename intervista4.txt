@@ -1,0 +1,51 @@
+Assistente sanitario: Buongiorno! Come stai oggi? Sono qui per fare qualche domanda riguardo alla tua gestione del diabete, se sei disponibile.
+
+Paziente: Buongiorno! Sto bene, grazie. Sono pronto/a a rispondere alle tue domande.
+
+Assistente sanitario: Ottimo! Allora iniziamo. Hai ricevuto istruzioni su come riconoscere e gestire i sintomi di una chetoacidosi diabetica o di un'iperosmolarità iperglicemica?
+
+Paziente: Sì, il mio medico mi ha fornito informazioni su come riconoscere i sintomi di queste complicanze e mi ha insegnato le azioni da intraprendere in caso di emergenza.
+
+Assistente sanitario: Hai mai avuto esperienze di disturbi dell'umore, come l'ansia o la depressione, che possono influenzare la tua gestione del diabete? Hai accesso a un supporto psicologico o a un consulente in salute mentale?
+
+Paziente: Sì, ho sperimentato episodi di ansia legati al diabete. Ho parlato con il mio medico e mi ha consigliato di consultare uno psicologo specializzato nel supporto ai pazienti diabetici.
+
+Assistente sanitario: Hai familiarità con l'uso di un dispositivo di monitoraggio continuo del glucosio (CGM) o di una pompa per insulina? Hai mai considerato l'utilizzo di tali dispositivi per migliorare il controllo del diabete?
+
+Paziente: Sì, ho familiarità con entrambi i dispositivi. Al momento sto utilizzando un CGM per monitorare i miei livelli di zucchero nel sangue in modo continuo.
+
+Assistente sanitario: Hai ricevuto indicazioni su come regolare la terapia insulinica in caso di attività fisica intensa o di sport?
+
+Paziente: Sì, il mio medico mi ha fornito indicazioni su come adattare la terapia insulinica in base all'attività fisica che svolgo. Solitamente riduco la dose di insulina quando pratico sport intensi.
+
+Assistente sanitario: Hai un piano di emergenza in caso di situazioni in cui non riesci a consumare cibo o a prendere i tuoi farmaci nel modo abituale?
+
+Paziente: Sì, ho un piano di emergenza che prevede l'utilizzo di glucosio in forma di compresse o gel nel caso in cui non riesca a consumare cibo regolarmente o a prendere i farmaci.
+
+Assistente sanitario: Hai esperienze o preoccupazioni riguardo alla fertilità o alla salute sessuale legate al diabete?
+
+Paziente: Sì, ho avuto alcune preoccupazioni riguardo alla fertilità e alla salute sessuale. Ho discusso di queste questioni con il mio medico ed è stato in grado di fornirmi informazioni e supporto appropriati.
+
+Assistente sanitario: Hai mai consultato un podologo specializzato nel diabete per la valutazione e la cura dei tuoi piedi?
+
+Paziente: Sì. Il podologo ha valutato la mia circolazione sanguigna, la sensibilità e la presenza di eventuali lesioni o ulcere. Mi ha anche dato consigli su come prendere cura dei miei piedi per prevenire complicanze.
+
+Assistente sanitario: Hai avuto discussioni con il tuo medico riguardo alla prevenzione delle complicanze a lungo termine associate al diabete, come la malattia renale o le malattie cardiovascolari?
+
+Paziente: Sì, ho avuto discussioni approfondite con il mio medico riguardo alla prevenzione di complicanze a lungo termine. Abbiamo discusso di monitoraggio regolare della pressione sanguigna, dei livelli di colesterolo e della funzionalità renale. Sono anche consapevole dell'importanza di mantenere un buon controllo glicemico.
+
+Assistente sanitario: Hai familiarità con l'indice glicemico degli alimenti e come può influenzare i livelli di zucchero nel sangue?
+
+Paziente: Sì, sono familiare con l'indice glicemico degli alimenti. So che alcuni alimenti possono aumentare rapidamente i livelli di zucchero nel sangue, mentre altri hanno un effetto più graduale. Cerco di scegliere alimenti con un basso indice glicemico per mantenere una migliore stabilità glicemica.
+
+Assistente sanitario: Sei a conoscenza dei segni di allarme che potrebbero indicare una possibile neuropatia diabetica, come la perdita di sensibilità nelle estremità?
+
+Paziente: Sì, sono consapevole dei segni di allarme legati alla neuropatia diabetica. Presto attenzione a qualsiasi perdita di sensibilità, formicolio o dolore alle estremità. Inoltre, faccio regolarmente controlli per rilevare eventuali segni precoci di neuropatia.
+
+Assistente sanitario: Hai mai ricevuto indicazioni riguardo all'uso di un diario del diabete per tenere traccia dei pasti, dei livelli di zucchero nel sangue e di altri parametri correlati?
+
+Paziente: Sì, il mio medico mi ha consigliato di tenere un diario del diabete per registrare i pasti, i livelli di zucchero nel sangue, l'assunzione di farmaci e altri parametri correlati. Mi aiuta a identificare eventuali schemi o fattori che possono influenzare i miei livelli glicemici.
+
+Assistente sanitario: Grazie per aver risposto alle mie domande. Hai altre domande o preoccupazioni che vorresti sollevare riguardo al tuo diabete?
+
+Paziente: No, per il momento non ho altre domande. Grazie per l'intervista e per avermi dato l'opportunità di condividere le mie esperienze e preoccupazioni riguardo al mio diabete.
